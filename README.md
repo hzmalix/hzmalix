@@ -40,8 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hzmalix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hzmalix" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzmalix&show_icons=true&locale=en&layout=compact" alt="hzmalix" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hzmalix&show_icons=true&locale=en&layout=compact&theme=dark" alt="hzmalix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzmalix&show_icons=true&locale=en" alt="hzmalix" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hzmalix&show_icons=true&locale=en&theme=dark" alt="hzmalix" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzmalix&" alt="hzmalix" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hzmalix&theme=dark" alt="hzmalix" /></p>
