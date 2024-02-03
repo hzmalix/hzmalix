@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/hzmalix" target="blank"><img src="https://img.shields.io/twitter/follow/hzmalix?logo=twitter&style=for-the-badge" alt="hzmalix" /></a> </p>
 
+<a href="https://app.daily.dev/hzmalix"><img src="https://github.com/hzmalix/hzmalix/blob/master/devcard.svg" width="400" alt="Hammad's Dev Card"/></a>
+
 - 🔭 I’m currently working on **Mobile Apps**
 
 - 🌱 I’m currently learning **Flutter, React Native**
