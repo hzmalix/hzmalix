@@ -18,7 +18,7 @@
 
 <a href="https://app.daily.dev/hzmalix">
   <img
-      src="https://github.com/hzmalix/hzmalix/blob/main/devcard.svg"
+      src="https://github.com/hzmalix/hzmalix/blob/main/devcard.png"
       width="400"
       alt="Hammad's Dev Card" />
 </a>
